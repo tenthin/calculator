@@ -35,6 +35,7 @@ function App() {
 					<button>.</button>
 					<button>=</button>
 				</div>
+				
 			</div>
 		</div>
 	);
